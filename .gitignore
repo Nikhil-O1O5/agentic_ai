@@ -1,0 +1,105 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python egg info
+*.egg-info/
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# mypy, pytype, coverage
+.mypy_cache/
+.pytype/
+.coverage
+htmlcov/
+.cache/
+
+# Pytest
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Logs
+*.log
+
+# Unit test and debug
+tests/__pycache__/
+debug.log
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Mac/Linux/Windows OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Datasets / large files / models
+data/
+datasets/
+*.h5
+*.hdf5
+*.pkl
+*.ckpt
+*.pt
+*.pth
+*.joblib
+*.npz
+*.npy
+*.onnx
+*.tflite
+*.pb
+*.mlmodel
+
+# Model output directories
+output/
+outputs/
+logs/
+runs/
+wandb/
+mlruns/
+
+# Hugging Face cache
+~/.cache/huggingface/
+*.safetensors
+
+# Environment variables / secrets
+.env
+*.env
+
+# Docker
+*.pid
+*.tar
+*.gz
+
+# Jupyter Notebook metadata (optional)
+*.nbconvert.ipynb
