@@ -15,3 +15,10 @@ langchain_huggingface
 langchain-groq
 langgraph
 langgraph-cli[inmem]
+youtube-transcript-api
+langchain_yt_dlp
+ipython
+Pillow
+# pygraphviz
+beautifulsoup4
+duckduckgo-search
